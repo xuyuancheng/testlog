@@ -1,0 +1,11 @@
+***************************************************************
+***core_bin_rule_check_1389                                 ***
+***************************************************************
+------------------------------------------------
+----core_bin_rule_check_1389
+------------------------------------------------
+SCRIPT ERROR: Running project: core_bin_rule_check_1389 out of time
+TIME INFO:     Proj:'core_bin_rule_check_1389' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_bin_rule_check_1389' costs 4m4s
+CASE STATUS:   FAILED

@@ -1,0 +1,12 @@
+***************************************************************
+***macro_compare_mos_1813                                   ***
+***************************************************************
+------------------------------------------------
+----macro_compare_mos_1813
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_compare_mos_1813' costs 0m36s
+------------------------------------------------
+TIME INFO:     Case:'macro_compare_mos_1813' costs 0m40s
+CASE STATUS:   PASS

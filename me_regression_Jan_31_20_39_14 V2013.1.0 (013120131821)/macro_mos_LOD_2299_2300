@@ -1,0 +1,15 @@
+***************************************************************
+***macro_mos_LOD_2299_2300                                  ***
+***************************************************************
+------------------------------------------------
+----macro_mos_LOD_2299_2300
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Advanced Check_ LOD_WPE' Item 'Idlin vs. SA' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ LOD_WPE' Item 'Idsat vs. SA' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ LOD_WPE' Item 'Idsat vs. SB' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ LOD_WPE' Item 'Vtlin vs. SB' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'macro_mos_LOD_2299_2300' costs 0m36s
+------------------------------------------------
+TIME INFO:     Case:'macro_mos_LOD_2299_2300' costs 0m40s
+CASE STATUS:   FAILED

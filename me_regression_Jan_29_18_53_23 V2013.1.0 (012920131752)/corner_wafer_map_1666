@@ -1,0 +1,13 @@
+***************************************************************
+***corner_wafer_map_1666                                    ***
+***************************************************************
+------------------------------------------------
+----corner_wafer_map_1666
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+Corner model KOP output table match!
+TIME INFO:     Proj:'corner_wafer_map_1666' costs 0m55s
+------------------------------------------------
+TIME INFO:     Case:'corner_wafer_map_1666' costs 0m59s
+CASE STATUS:   PASS

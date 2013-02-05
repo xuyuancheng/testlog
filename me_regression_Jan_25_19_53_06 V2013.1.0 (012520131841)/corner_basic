@@ -1,0 +1,12 @@
+***************************************************************
+***corner_basic                                             ***
+***************************************************************
+------------------------------------------------
+----corner_basic
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'corner_basic' costs 2m31s
+------------------------------------------------
+TIME INFO:     Case:'corner_basic' costs 2m35s
+CASE STATUS:   PASS

@@ -1,0 +1,12 @@
+***************************************************************
+***macro_single_diode                                       ***
+***************************************************************
+------------------------------------------------
+----macro_single_diode
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_diode' costs 2m26s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_diode' costs 2m30s
+CASE STATUS:   PASS

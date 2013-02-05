@@ -1,0 +1,11 @@
+***************************************************************
+***compare_mos_basic                                        ***
+***************************************************************
+------------------------------------------------
+----compare_mos_basic
+------------------------------------------------
+SCRIPT ERROR: Running project: compare_mos_basic out of time
+TIME INFO:     Proj:'compare_mos_basic' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'compare_mos_basic' costs 4m4s
+CASE STATUS:   FAILED

@@ -1,0 +1,25 @@
+***************************************************************
+***macro_single_soi_1569                                    ***
+***************************************************************
+------------------------------------------------
+----macro_single_soi_1569
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Gm vs. Vgs @ various Vps] Checked
+
+      #temp   	Run rule [Gm vs. Vgs @ various Vps] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Gm vs. Vgs @ various Vps (y')] Checked
+
+      #temp   	Run rule [Gm vs. Vgs @ various Vps (y')] 
+
+COMPARE ERROR: Group 'Model Behavior and Robustness'  Item 'Gm vs. Vgs @ various Vps' has no results
+COMPARE ERROR: Group 'Model Behavior and Robustness'  Item 'Gm vs. Vgs @ various Vps' has no results
+COMPARE ERROR: Group 'Model Behavior and Robustness'  Item 'Gm vs. Vgs @ various Vps (y')' has no results
+COMPARE ERROR: Group 'Model Behavior and Robustness'  Item 'Gm vs. Vgs @ various Vps (y')' has no results
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_soi_1569' costs 0m27s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_soi_1569' costs 0m31s
+CASE STATUS:   FAILED

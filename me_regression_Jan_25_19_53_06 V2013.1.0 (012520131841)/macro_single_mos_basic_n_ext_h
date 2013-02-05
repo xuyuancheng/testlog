@@ -1,0 +1,12 @@
+***************************************************************
+***macro_single_mos_basic_n_ext_h                           ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_basic_n_ext_h
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_basic_n_ext_h' costs 7m44s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_basic_n_ext_h' costs 7m48s
+CASE STATUS:   PASS

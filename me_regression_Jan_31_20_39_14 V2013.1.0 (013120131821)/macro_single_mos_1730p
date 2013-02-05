@@ -1,0 +1,12 @@
+***************************************************************
+***macro_single_mos_1730p                                   ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_1730p
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_1730p' costs 2m3s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_1730p' costs 2m8s
+CASE STATUS:   PASS

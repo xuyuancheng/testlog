@@ -1,0 +1,12 @@
+***************************************************************
+***core_single_bjt_basic_pnp                                ***
+***************************************************************
+------------------------------------------------
+----core_single_bjt_basic_pnp
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_bjt_basic_pnp' costs 1m22s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bjt_basic_pnp' costs 1m28s
+CASE STATUS:   PASS

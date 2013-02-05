@@ -1,0 +1,26 @@
+***************************************************************
+***macro_mos_LOD_2299_2300                                  ***
+***************************************************************
+------------------------------------------------
+----macro_mos_LOD_2299_2300
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Id(%) vs. Sa, Sb@ various W/L] Checked
+
+      #temp   	Run rule [Id(%) vs. Sa, Sb@ various W/L] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Vth_off vs. Sa, Sb@ various W/L] Checked
+
+      #temp   	Run rule [Vth_off vs. Sa, Sb@ various W/L] FAILED
+
+COMPARE ERROR: Group 'Advanced Check_ LOD_WPE'  Item 'Id(%) vs. Sa, Sb@ various W_L' has no results
+COMPARE ERROR: Group 'Advanced Check_ LOD_WPE' Item 'Idlin vs. SA' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ LOD_WPE' Item 'Idsat vs. SB' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ LOD_WPE' Item 'Vth_off vs. Sa, Sb@ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ LOD_WPE' Item 'Vtlin vs. SA' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ LOD_WPE' Item 'Vtlin vs. SB' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'macro_mos_LOD_2299_2300' costs 0m40s
+------------------------------------------------
+TIME INFO:     Case:'macro_mos_LOD_2299_2300' costs 0m44s
+CASE STATUS:   FAILED

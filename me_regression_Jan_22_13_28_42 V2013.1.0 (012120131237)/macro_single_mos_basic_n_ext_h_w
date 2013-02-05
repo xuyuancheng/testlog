@@ -1,0 +1,21 @@
+***************************************************************
+***macro_single_mos_basic_n_ext_h_w                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_basic_n_ext_h_w
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Gds vs. Vds @ various Vgs] FAILED
+
+      #temp   	Run rule [Gds vs. Vds @ various Vgs] Checked
+
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs' Graph 'Vb=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs' Graph 'Vd=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Ids vs. Vgs @ various Vbs' Graph 'Vd=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Ids vs. Vgs @ various Vbs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+TIME INFO:     Proj:'macro_single_mos_basic_n_ext_h_w' costs 0m54s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_basic_n_ext_h_w' costs 0m59s
+CASE STATUS:   FAILED

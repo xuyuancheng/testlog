@@ -1,0 +1,11 @@
+***************************************************************
+***core_single_mos_data_check_3059                          ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_data_check_3059
+------------------------------------------------
+Check ERROR: Can't find the saved gtf file ..\result\core_single_mos_data_check_3059\core_single_mos_data_check_3059\3059_data_check.gtf
+TIME INFO:     Proj:'core_single_mos_data_check_3059' costs 0m33s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_data_check_3059' costs 0m37s
+CASE STATUS:   FAILED

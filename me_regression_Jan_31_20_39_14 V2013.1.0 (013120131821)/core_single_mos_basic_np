@@ -1,0 +1,61 @@
+***************************************************************
+***core_single_mos_basic_np                                 ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_np
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Fitting Error [W=1.2 L=0.7 T=25].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vbs=-1.50V_1_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vbs=0.00V_0_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=0.10V_0_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=0.10V_0_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=0.10V_0_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=5.00V_1_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=5.00V_1_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=5.00V_1_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vbs=-1.50V_1_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vbs=0.00V_0_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=0.10V_0_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=0.10V_0_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=0.10V_0_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=5.00V_1_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=5.00V_1_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=5.00V_1_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Fitting Error [W=1.2 L=2 T=25].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vbs=0.00V_0_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vbs=1.50V_1_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-0.10V_0_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-0.10V_0_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-0.10V_0_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-5.00V_1_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-5.00V_1_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-5.00V_1_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vbs=0.00V_0_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vbs=1.50V_1_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-0.10V_0_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-0.10V_0_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-0.10V_0_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-5.00V_1_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-5.00V_1_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-5.00V_1_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vds Vbs=-1.50V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vds Vbs=-1.50V_1[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vds Vbs=0.00V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vds Vbs=0.00V_0[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vgs Vds=0.10V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vgs Vds=0.10V_0[Gm].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vgs Vds=5.00V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vgs Vds=5.00V_1[Gm].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=0.00V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=0.00V_0[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=1.50V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=1.50V_1[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-0.10V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-0.10V_0[Gm].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-5.00V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-5.00V_1[Gm].gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_mos_basic_np' costs 4m9s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_np' costs 4m15s
+CASE STATUS:   FAILED

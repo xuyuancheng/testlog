@@ -1,0 +1,11 @@
+***************************************************************
+***macro_compare_mos_1813                                   ***
+***************************************************************
+------------------------------------------------
+----macro_compare_mos_1813
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_compare_mos_1813 out of time
+TIME INFO:     Proj:'macro_compare_mos_1813' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_compare_mos_1813' costs 4m4s
+CASE STATUS:   FAILED

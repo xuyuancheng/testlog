@@ -1,0 +1,12 @@
+***************************************************************
+***macro_single_mos_n_2752_vth_cc_w                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_n_2752_vth_cc_w
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_n_2752_vth_cc_w' costs 0m50s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_n_2752_vth_cc_w' costs 0m55s
+CASE STATUS:   PASS

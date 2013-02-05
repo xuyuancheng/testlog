@@ -1,0 +1,11 @@
+***************************************************************
+***core_single_mos_change_logscale_2268                     ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_change_logscale_2268
+------------------------------------------------
+Check INFO: The key file match with the golden
+TIME INFO:     Proj:'core_single_mos_change_logscale_2268' costs 0m45s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_change_logscale_2268' costs 0m50s
+CASE STATUS:   PASS

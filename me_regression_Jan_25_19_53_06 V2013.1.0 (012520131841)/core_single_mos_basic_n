@@ -1,0 +1,12 @@
+***************************************************************
+***core_single_mos_basic_n                                  ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_n
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_basic_n' costs 1m41s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_n' costs 1m46s
+CASE STATUS:   PASS

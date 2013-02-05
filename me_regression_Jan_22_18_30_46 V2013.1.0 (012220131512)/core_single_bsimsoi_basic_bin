@@ -1,0 +1,17 @@
+***************************************************************
+***core_single_bsimsoi_basic_bin                            ***
+***************************************************************
+------------------------------------------------
+----core_single_bsimsoi_basic_bin
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Peak Position of Gm] Checked
+
+      #temp   	Run rule [Peak Position of Gm] FAILED
+
+COMPARE ERROR: Group 'Model Accuracy' Item 'Electrical Parameter Trend' Graph 'Idlin vs. L nmos T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'Electrical Parameter Trend' Graph 'Idsat vs. L nmos T=25.gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_bsimsoi_basic_bin' costs 1m34s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bsimsoi_basic_bin' costs 1m38s
+CASE STATUS:   FAILED

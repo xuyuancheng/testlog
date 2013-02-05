@@ -1,0 +1,12 @@
+***************************************************************
+***macro_single_capacitor_1659                              ***
+***************************************************************
+------------------------------------------------
+----macro_single_capacitor_1659
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_capacitor_1659' costs 2m23s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_capacitor_1659' costs 2m27s
+CASE STATUS:   PASS

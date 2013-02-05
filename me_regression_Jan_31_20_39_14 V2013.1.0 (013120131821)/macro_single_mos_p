@@ -1,0 +1,12 @@
+***************************************************************
+***macro_single_mos_p                                       ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_p
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_p' costs 1m27s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_p' costs 1m32s
+CASE STATUS:   PASS

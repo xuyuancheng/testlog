@@ -1,0 +1,13 @@
+***************************************************************
+***core_single_bsim_cmg_basic_n                             ***
+***************************************************************
+------------------------------------------------
+----core_single_bsim_cmg_basic_n
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Model Scalability' Item 'Leff vs. L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Leff vs. Tfin' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_bsim_cmg_basic_n' costs 1m27s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bsim_cmg_basic_n' costs 1m32s
+CASE STATUS:   FAILED

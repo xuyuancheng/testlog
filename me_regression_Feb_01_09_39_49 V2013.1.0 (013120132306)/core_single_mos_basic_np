@@ -1,0 +1,11 @@
+***************************************************************
+***core_single_mos_basic_np                                 ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_np
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_basic_np out of time
+TIME INFO:     Proj:'core_single_mos_basic_np' costs 8m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_np' costs 8m4s
+CASE STATUS:   FAILED

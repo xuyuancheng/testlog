@@ -1,0 +1,12 @@
+***************************************************************
+***core_single_mos_np_2752_vth_cc_wl                        ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_np_2752_vth_cc_wl
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_np_2752_vth_cc_wl' costs 0m56s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_np_2752_vth_cc_wl' costs 1m0s
+CASE STATUS:   PASS

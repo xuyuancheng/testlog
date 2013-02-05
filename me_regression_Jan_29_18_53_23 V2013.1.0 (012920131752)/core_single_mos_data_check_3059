@@ -1,0 +1,11 @@
+***************************************************************
+***core_single_mos_data_check_3059                          ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_data_check_3059
+------------------------------------------------
+Check INFO: The saved gtf file match with the golden
+TIME INFO:     Proj:'core_single_mos_data_check_3059' costs 0m36s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_data_check_3059' costs 0m40s
+CASE STATUS:   PASS

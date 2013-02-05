@@ -1,0 +1,12 @@
+***************************************************************
+***core_single_mos_psp                                      ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_psp
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_psp' costs 1m46s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_psp' costs 1m50s
+CASE STATUS:   PASS

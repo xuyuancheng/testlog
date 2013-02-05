@@ -1,0 +1,11 @@
+***************************************************************
+***macro_single_diode                                       ***
+***************************************************************
+------------------------------------------------
+----macro_single_diode
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_diode out of time
+TIME INFO:     Proj:'macro_single_diode' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_diode' costs 4m4s
+CASE STATUS:   FAILED

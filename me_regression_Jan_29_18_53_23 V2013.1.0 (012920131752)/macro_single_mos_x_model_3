@@ -1,0 +1,78 @@
+***************************************************************
+***macro_single_mos_x_model_3                               ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_x-model-3
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Idsat/W vs. L @ various W] Checked
+
+      #temp   	Run rule [Idsat/W vs. L @ various W] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Idsat/W vs. 1/L @ various W] Checked
+
+      #temp   	Run rule [Idsat/W vs. 1/L @ various W] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Idsat*L vs. L @ various W] Checked
+
+      #temp   	Run rule [Idsat*L vs. L @ various W] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Idsat/L vs. W @ various L] Checked
+
+      #temp   	Run rule [Idsat/L vs. W @ various L] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Idsat/W vs. W @ various L] Checked
+
+      #temp   	Run rule [Idsat/W vs. W @ various L] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ioff vs. L @ various W] FAILED
+
+      #temp   	Run rule [Ioff vs. L @ various W] Checked
+
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs' Graph 'Vb=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs' Graph 'Vb=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs' Graph 'Vb=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs (y')' Graph 'Vb=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs (y')' Graph 'Vb=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs (y')' Graph 'Vb=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs' Graph 'Vd=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs' Graph 'Vd=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs' Graph 'Vd=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Rout vs. Vds @ various Vgs' Graph 'Vb=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Rout vs. Vds @ various Vgs' Graph 'Vb=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Idlin vs. Vb @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Idsat vs. 1_L @ various W' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Idsat vs. 1_L @ various W' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Idsat vs. L @ various W' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Idsat vs. T @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Idsat vs. T @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Idsat vs. Vb @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Idsat vs. Vb @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Idsat vs. W @ various L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability'  Item 'Idsat_L vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Idsat_L vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Idsat_L vs. W @ various L' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Idsat_W vs. 1_L @ various W' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Idsat_W vs. 1_L @ various W' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Idsat_W vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Idsat_W vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Idsat_W vs. W @ various L' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Idsat_W vs. W @ various L' has no results
+COMPARE ERROR: Group 'Model Scalability' Item 'Ioff vs. L @ various W' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Ioff vs. L @ various W' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Ioff vs. W @ various L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Ioff vs. W @ various L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'SR vs. Vg @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'macro_single_mos_x-model-3' costs 1m44s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_x_model_3' costs 1m49s
+CASE STATUS:   FAILED

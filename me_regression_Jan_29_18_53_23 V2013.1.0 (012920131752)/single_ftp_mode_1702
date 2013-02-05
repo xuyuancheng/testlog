@@ -1,0 +1,12 @@
+***************************************************************
+***single_ftp_mode_1702                                     ***
+***************************************************************
+------------------------------------------------
+----single_ftp_mode_1702
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'single_ftp_mode_1702' costs 3m42s
+------------------------------------------------
+TIME INFO:     Case:'single_ftp_mode_1702' costs 3m46s
+CASE STATUS:   PASS

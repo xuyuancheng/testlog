@@ -1,0 +1,603 @@
+***************************************************************
+***compare_mos_basic                                        ***
+***************************************************************
+------------------------------------------------
+----compare_mos_basic
+------------------------------------------------
+SCRIPT ERROR: Running project: compare_mos_basic out of time
+TIME INFO:     Proj:'compare_mos_basic' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'compare_mos_basic' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***compare_para_list_bin_2756                               ***
+***************************************************************
+------------------------------------------------
+----compare_para_list_bin_2756
+------------------------------------------------
+SCRIPT ERROR: Running project: compare_para_list_bin_2756 out of time
+TIME INFO:     Proj:'compare_para_list_bin_2756' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'compare_para_list_bin_2756' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***compare_pare_list_np_2756                                ***
+***************************************************************
+------------------------------------------------
+----compare_pare_list_np_2756
+------------------------------------------------
+SCRIPT ERROR: Running project: compare_pare_list_np_2756 out of time
+TIME INFO:     Proj:'compare_pare_list_np_2756' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'compare_pare_list_np_2756' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_bin_1051                                            ***
+***************************************************************
+------------------------------------------------
+----core_bin_1051
+------------------------------------------------
+SCRIPT ERROR: Running project: core_bin_1051 out of time
+TIME INFO:     Proj:'core_bin_1051' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_bin_1051' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_bin_1850                                            ***
+***************************************************************
+------------------------------------------------
+----core_bin_1850
+------------------------------------------------
+SCRIPT ERROR: Running project: core_bin_1850 out of time
+TIME INFO:     Proj:'core_bin_1850' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_bin_1850' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_bin_rule_check_1389                                 ***
+***************************************************************
+------------------------------------------------
+----core_bin_rule_check_1389
+------------------------------------------------
+SCRIPT ERROR: Running project: core_bin_rule_check_1389 out of time
+TIME INFO:     Proj:'core_bin_rule_check_1389' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_bin_rule_check_1389' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_corner_data_check_3059                              ***
+***************************************************************
+------------------------------------------------
+----core_corner_data_check_3059
+------------------------------------------------
+SCRIPT ERROR: Running project: core_corner_data_check_3059 out of time
+TIME INFO:     Proj:'core_corner_data_check_3059' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_corner_data_check_3059' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_hsim_hv                                             ***
+***************************************************************
+------------------------------------------------
+----core_hsim_hv
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_hsim_hv' costs 1m0s
+------------------------------------------------
+TIME INFO:     Case:'core_hsim_hv' costs 1m4s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_hsim_hv2                                            ***
+***************************************************************
+------------------------------------------------
+----core_hsim_hv2
+------------------------------------------------
+SCRIPT ERROR: Running project: core_hsim_hv2 out of time
+TIME INFO:     Proj:'core_hsim_hv2' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_hsim_hv2' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_bjt_basic_npn                                ***
+***************************************************************
+------------------------------------------------
+----core_single_bjt_basic_npn
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_bjt_basic_npn out of time
+TIME INFO:     Proj:'core_single_bjt_basic_npn' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bjt_basic_npn' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_bjt_basic_pnp                                ***
+***************************************************************
+------------------------------------------------
+----core_single_bjt_basic_pnp
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_bjt_basic_pnp out of time
+TIME INFO:     Proj:'core_single_bjt_basic_pnp' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bjt_basic_pnp' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_bsimsoi_basic_bin                            ***
+***************************************************************
+------------------------------------------------
+----core_single_bsimsoi_basic_bin
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Peak Position of Gm] Checked
+
+      #temp   	Run rule [Peak Position of Gm] FAILED
+
+COMPARE ERROR: Group 'Model Accuracy' Item 'Electrical Parameter Trend' Graph 'Idlin vs. L nmos T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'Electrical Parameter Trend' Graph 'Idsat vs. L nmos T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Cjs vs. Vj @ various T and Area' Graph 'As=1e-010(m2).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Cjs vs. Vj @ various T and Area' Graph 'As=5e-010(m2).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Cjs vs. Vj @ various T and Area' Graph 'As=5e-011(m2).gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_bsimsoi_basic_bin' costs 1m5s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bsimsoi_basic_bin' costs 1m10s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_bsim_cmg_basic_n                             ***
+***************************************************************
+------------------------------------------------
+----core_single_bsim_cmg_basic_n
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Model Scalability' Item 'Leff vs. L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Leff vs. Tfin' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_bsim_cmg_basic_n' costs 1m6s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bsim_cmg_basic_n' costs 0m2s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_bsim_cmg_basic_p                             ***
+***************************************************************
+------------------------------------------------
+----core_single_bsim_cmg_basic_p
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Model Scalability' Item 'Leff vs. L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Leff vs. Tfin' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_bsim_cmg_basic_p' costs 0m50s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bsim_cmg_basic_p' costs 0m55s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_model_res                                    ***
+***************************************************************
+------------------------------------------------
+----core_single_model_res
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_model_res' costs 0m15s
+------------------------------------------------
+TIME INFO:     Case:'core_single_model_res' costs 0m19s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_advance                                  ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_advance
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_advance out of time
+TIME INFO:     Proj:'core_single_mos_advance' costs 10m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_advance' costs 10m6s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_basic_n                                  ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_n
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_basic_n out of time
+TIME INFO:     Proj:'core_single_mos_basic_n' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_n' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_basic_np                                 ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_np
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_basic_np out of time
+TIME INFO:     Proj:'core_single_mos_basic_np' costs 8m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_np' costs 8m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_basic_n_ext_s                            ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_n_ext_s
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_basic_n_ext_s out of time
+TIME INFO:     Proj:'core_single_mos_basic_n_ext_s' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_n_ext_s' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_basic_p                                  ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_p
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_basic_p out of time
+TIME INFO:     Proj:'core_single_mos_basic_p' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_p' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_basic_p_ext_h                            ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_p_ext_h
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_basic_p_ext_h out of time
+TIME INFO:     Proj:'core_single_mos_basic_p_ext_h' costs 12m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_p_ext_h' costs 12m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_basic_p_ext_h_w                          ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_p_ext_h_w
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_basic_p_ext_h_w out of time
+TIME INFO:     Proj:'core_single_mos_basic_p_ext_h_w' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_p_ext_h_w' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_bin_parameter_list_2756                  ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_bin_parameter_list_2756
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_bin_parameter_list_2756 out of time
+TIME INFO:     Proj:'core_single_mos_bin_parameter_list_2756' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_bin_parameter_list_2756' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_change_logscale_2268                     ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_change_logscale_2268
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_change_logscale_2268 out of time
+TIME INFO:     Proj:'core_single_mos_change_logscale_2268' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_change_logscale_2268' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_data_check_3059                          ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_data_check_3059
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_data_check_3059 out of time
+TIME INFO:     Proj:'core_single_mos_data_check_3059' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_data_check_3059' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_flat_rule_2750                           ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_flat_rule_2750
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_flat_rule_2750 out of time
+TIME INFO:     Proj:'core_single_mos_flat_rule_2750' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_flat_rule_2750' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_keep_outrange_devicelist_2754            ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_keep_outrange_devicelist_2754
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_keep_outrange_devicelist_2754 out of time
+TIME INFO:     Proj:'core_single_mos_keep_outrange_devicelist_2754' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_keep_outrange_devicelist_2754' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_model_accuracy_1558_2269                 ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_model_accuracy_1558_2269
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_model_accuracy_1558_2269 out of time
+TIME INFO:     Proj:'core_single_mos_model_accuracy_1558_2269' costs 6m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_model_accuracy_1558_2269' costs 6m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_np_2752_vth_cc_1                         ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_np_2752_vth_cc_1
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_np_2752_vth_cc_1 out of time
+TIME INFO:     Proj:'core_single_mos_np_2752_vth_cc_1' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_np_2752_vth_cc_1' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_np_2752_vth_cc_l                         ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_np_2752_vth_cc_l
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_np_2752_vth_cc_l out of time
+TIME INFO:     Proj:'core_single_mos_np_2752_vth_cc_l' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_np_2752_vth_cc_l' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_np_2752_vth_cc_w                         ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_np_2752_vth_cc_w
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_np_2752_vth_cc_w out of time
+TIME INFO:     Proj:'core_single_mos_np_2752_vth_cc_w' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_np_2752_vth_cc_w' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_np_2752_vth_cc_wl                        ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_np_2752_vth_cc_wl
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_np_2752_vth_cc_wl out of time
+TIME INFO:     Proj:'core_single_mos_np_2752_vth_cc_wl' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_np_2752_vth_cc_wl' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_n_1899                                   ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_n
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_basic_n out of time
+TIME INFO:     Proj:'core_single_mos_basic_n' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_n_1899' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_psp                                      ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_psp
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_psp out of time
+TIME INFO:     Proj:'core_single_mos_psp' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_psp' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_p_model_basic_2622                       ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_p_model_basic_2622
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_p_model_basic_2622 out of time
+TIME INFO:     Proj:'core_single_mos_p_model_basic_2622' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_p_model_basic_2622' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_save_load_devlist_2755                   ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_save_load_devlist_2755
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_save_load_devlist_2755 out of time
+TIME INFO:     Proj:'core_single_mos_save_load_devlist_2755' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_save_load_devlist_2755' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***corner_basic                                             ***
+***************************************************************
+------------------------------------------------
+----corner_basic
+------------------------------------------------
+SCRIPT ERROR: Running project: corner_basic out of time
+TIME INFO:     Proj:'corner_basic' costs 8m0s
+------------------------------------------------
+TIME INFO:     Case:'corner_basic' costs 8m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***corner_wafer_map_1666                                    ***
+***************************************************************
+------------------------------------------------
+----corner_wafer_map_1666
+------------------------------------------------
+SCRIPT ERROR: Running project: corner_wafer_map_1666 out of time
+TIME INFO:     Proj:'corner_wafer_map_1666' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'corner_wafer_map_1666' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_cmp_dragnet3589                                    ***
+***************************************************************
+------------------------------------------------
+----macro_cmp_dragnet3589
+------------------------------------------------
+COMPARE INFO: Log file match!
+TIME INFO:     Proj:'macro_cmp_dragnet3589' costs 0m19s
+------------------------------------------------
+TIME INFO:     Case:'macro_cmp_dragnet3589' costs 0m23s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_compare_mos_1813                                   ***
+***************************************************************
+------------------------------------------------
+----macro_compare_mos_1813
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_compare_mos_1813 out of time
+TIME INFO:     Proj:'macro_compare_mos_1813' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_compare_mos_1813' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_corner_1740                                        ***
+***************************************************************
+------------------------------------------------
+----macro_corner_1740
+------------------------------------------------
+API ERROR: Get project run-over flag failed
+TIME INFO:     Proj:'macro_corner_1740' costs 2m59s
+------------------------------------------------
+TIME INFO:     Case:'macro_corner_1740' costs 3m3s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_mos_LOD_2299_2300                                  ***
+***************************************************************
+------------------------------------------------
+----macro_mos_LOD_2299_2300
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_mos_LOD_2299_2300 out of time
+TIME INFO:     Proj:'macro_mos_LOD_2299_2300' costs 8m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_mos_LOD_2299_2300' costs 8m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_parse_NodelFile_crash_dragnet3575                  ***
+***************************************************************
+------------------------------------------------
+----macro_parse_NodelFile_crash_dragnet3575
+------------------------------------------------
+COMPARE INFO: Log file match!
+TIME INFO:     Proj:'macro_parse_NodelFile_crash_dragnet3575' costs 0m19s
+------------------------------------------------
+TIME INFO:     Case:'macro_parse_NodelFile_crash_dragnet3575' costs 0m23s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_bjt                                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_bjt
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_bjt out of time
+TIME INFO:     Proj:'macro_single_bjt' costs 8m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_bjt' costs 8m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_capacitor_1659                              ***
+***************************************************************
+------------------------------------------------
+----macro_single_capacitor_1659
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_capacitor_1659 out of time
+TIME INFO:     Proj:'macro_single_capacitor_1659' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_capacitor_1659' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_diode                                       ***
+***************************************************************
+------------------------------------------------
+----macro_single_diode
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_diode out of time
+TIME INFO:     Proj:'macro_single_diode' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_diode' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_diode_1573                                  ***
+***************************************************************
+------------------------------------------------
+----macro_single_diode_1573
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_diode_1573 out of time
+TIME INFO:     Proj:'macro_single_diode_1573' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_diode_1573' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_diode_934                                   ***
+***************************************************************
+------------------------------------------------
+----macro_single_diode_934
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_diode_934 out of time
+TIME INFO:     Proj:'macro_single_diode_934' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_diode_934' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_model_res                                   ***
+***************************************************************
+------------------------------------------------
+----macro_single_model_res
+------------------------------------------------
+API ERROR: Get project run-over flag failed
+TIME INFO:     Proj:'macro_single_model_res' costs 3m15s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_model_res' costs 3m19s
+CASE STATUS:   FAILED
+

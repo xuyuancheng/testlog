@@ -1,0 +1,11 @@
+***************************************************************
+***macro_single_tft                                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_tft
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_tft out of time
+TIME INFO:     Proj:'macro_single_tft' costs 8m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_tft' costs 8m4s
+CASE STATUS:   FAILED

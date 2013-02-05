@@ -1,0 +1,12 @@
+***************************************************************
+***compare_mos_basic                                        ***
+***************************************************************
+------------------------------------------------
+----compare_mos_basic
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'compare_mos_basic' costs 1m20s
+------------------------------------------------
+TIME INFO:     Case:'compare_mos_basic' costs 1m24s
+CASE STATUS:   PASS

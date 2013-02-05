@@ -1,0 +1,11 @@
+***************************************************************
+***core_single_mos_basic_n_ext_s                            ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_n_ext_s
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_basic_n_ext_s out of time
+TIME INFO:     Proj:'core_single_mos_basic_n_ext_s' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_n_ext_s' costs 4m4s
+CASE STATUS:   FAILED

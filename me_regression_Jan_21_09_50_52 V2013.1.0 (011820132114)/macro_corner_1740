@@ -1,0 +1,13 @@
+***************************************************************
+***macro_corner_1740                                        ***
+***************************************************************
+------------------------------------------------
+----macro_corner_1740
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+SCRIPT ERROR: Unexpected exception in compare 'Corner Model Device Parameter Table'
+TIME INFO:     Proj:'macro_corner_1740' costs 1m54s
+------------------------------------------------
+TIME INFO:     Case:'macro_corner_1740' costs 1m59s
+CASE STATUS:   FAILED

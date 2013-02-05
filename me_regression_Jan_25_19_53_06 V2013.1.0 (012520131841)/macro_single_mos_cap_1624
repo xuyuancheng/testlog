@@ -1,0 +1,75 @@
+***************************************************************
+***macro_single_mos_cap_1624                                ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_cap_1624
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+TIME INFO:     Proj:'macro_single_mos_cap_1624' costs 0m49s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_cap_1624' costs 0m54s
+CASE STATUS:   FAILED

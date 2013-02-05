@@ -1,0 +1,279 @@
+***************************************************************
+***macro_single_bjt                                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_bjt
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Ib vs. Vce @ various Vbe] Checked
+
+      #temp   	Run rule [Ib vs. Vce @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic vs. Vce @ various Vbe] Checked
+
+      #temp   	Run rule [Ic vs. Vce @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Is vs. Vce @ various Vbe] Checked
+
+      #temp   	Run rule [Is vs. Vce @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic/Ib vs. Vce @ various Vbe] Checked
+
+      #temp   	Run rule [Ic/Ib vs. Vce @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic/(Ib+Is) vs. Vce @ various Vbe] Checked
+
+      #temp   	Run rule [Ic/(Ib+Is) vs. Vce @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIb/dVce vs. Vce @ various Vbe] Checked
+
+      #temp   	Run rule [dIb/dVce vs. Vce @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIc/dVce vs. Vce @ various Vbe] Checked
+
+      #temp   	Run rule [dIc/dVce vs. Vce @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIs/dVce vs. Vce @ various Vbe] Checked
+
+      #temp   	Run rule [dIs/dVce vs. Vce @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [(dIc/dVce)/Ic  vs. Vce @ various Vbe] Checked
+
+      #temp   	Run rule [(dIc/dVce)/Ic  vs. Vce @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ib vs. Vec @ various Vbc] Checked
+
+      #temp   	Run rule [Ib vs. Vec @ various Vbc] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ie vs. Vec @ various Vbc] Checked
+
+      #temp   	Run rule [Ie vs. Vec @ various Vbc] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Is vs. Vec @ various Vbc] Checked
+
+      #temp   	Run rule [Is vs. Vec @ various Vbc] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ie/Ib vs. Vec @ various Vbc] Checked
+
+      #temp   	Run rule [Ie/Ib vs. Vec @ various Vbc] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ie/(Ib+Is) vs. Vec @ various Vbc] Checked
+
+      #temp   	Run rule [Ie/(Ib+Is) vs. Vec @ various Vbc] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIb/dVec vs. Vec @ various Vbc] Checked
+
+      #temp   	Run rule [dIb/dVec vs. Vec @ various Vbc] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIe/dVec vs. Vec @ various Vbc] Checked
+
+      #temp   	Run rule [dIe/dVec vs. Vec @ various Vbc] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIs/dVec vs. Vec @ various Vbc] Checked
+
+      #temp   	Run rule [dIs/dVec vs. Vec @ various Vbc] 
+
+COMPARE ERROR:
+      #golden 	Run rule [(dIe/dVec)/Ie vs. Vec @ various Vbc] Checked
+
+      #temp   	Run rule [(dIe/dVec)/Ie vs. Vec @ various Vbc] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ib vs. Vbe @ various Vce] Checked
+
+      #temp   	Run rule [Ib vs. Vbe @ various Vce] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic vs. Vbe @ various Vce] Checked
+
+      #temp   	Run rule [Ic vs. Vbe @ various Vce] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Is vs. Vbe @ various Vce] Checked
+
+      #temp   	Run rule [Is vs. Vbe @ various Vce] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIb/dVbe vs. Vbe @ various Vce] Checked
+
+      #temp   	Run rule [dIb/dVbe vs. Vbe @ various Vce] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIc/dVbe vs. Vbe @ various Vce] Checked
+
+      #temp   	Run rule [dIc/dVbe vs. Vbe @ various Vce] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIs/dVbe vs. Vbe @ various Vce] Checked
+
+      #temp   	Run rule [dIs/dVbe vs. Vbe @ various Vce] 
+
+COMPARE ERROR:
+      #golden 	Run rule [(dIc/dVbe)/Ic vs. Vbe @ various Vce] Checked
+
+      #temp   	Run rule [(dIc/dVbe)/Ic vs. Vbe @ various Vce] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic/Ib vs. Ic @ various Vce] Checked
+
+      #temp   	Run rule [Ic/Ib vs. Ic @ various Vce] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic/(Ib+Is) vs. Ic @ various Vce] Checked
+
+      #temp   	Run rule [Ic/(Ib+Is) vs. Ic @ various Vce] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ib vs. Vbc @ various Vbe] Checked
+
+      #temp   	Run rule [Ib vs. Vbc @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ie vs. Vbc @ various Vbe] Checked
+
+      #temp   	Run rule [Ie vs. Vbc @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Is vs. Vbc @ various Vbe] Checked
+
+      #temp   	Run rule [Is vs. Vbc @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIb/dVbc vs. Vbc @ various Vbe] Checked
+
+      #temp   	Run rule [dIb/dVbc vs. Vbc @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIe/dVbc vs. Vbc @ various Vbe] Checked
+
+      #temp   	Run rule [dIe/dVbc vs. Vbc @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [dIs/dVbc vs. Vbc @ various Vbe] Checked
+
+      #temp   	Run rule [dIs/dVbc vs. Vbc @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ie/Ib vs. Ie @ various Vbe] Checked
+
+      #temp   	Run rule [Ie/Ib vs. Ie @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ie/(Ib+Is) vs. Ie @ various Vbe] Checked
+
+      #temp   	Run rule [Ie/(Ib+Is) vs. Ie @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic vs. Area @ various Vbe] Checked
+
+      #temp   	Run rule [Ic vs. Area @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic/Ib vs. Area @ various Vbe] Checked
+
+      #temp   	Run rule [Ic/Ib vs. Area @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic vs. M @ various Vbe] Checked
+
+      #temp   	Run rule [Ic vs. M @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic/Ib vs. M @ various Vbe] Checked
+
+      #temp   	Run rule [Ic/Ib vs. M @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic vs. T @ various Vbe] Checked
+
+      #temp   	Run rule [Ic vs. T @ various Vbe] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Ic/Ib vs. T @ various Vbe] Checked
+
+      #temp   	Run rule [Ic/Ib vs. T @ various Vbe] 
+
+COMPARE ERROR: Group 'DC Gummel Checks'  Item '(dIc_dVbe)_Ic vs. Vbe @ various Vce' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'dIb_dVbc vs. Vbc @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'dIb_dVbe vs. Vbe @ various Vce' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'dIc_dVbe vs. Vbe @ various Vce' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'dIe_dVbc vs. Vbc @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'dIs_dVbc vs. Vbc @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'dIs_dVbe vs. Vbe @ various Vce' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'Ib vs. Vbc @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'Ib vs. Vbe @ various Vce' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'Ic vs. Vbe @ various Vce' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'Ic_(Ib+Is) vs. Ic @ various Vce' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'Ic_Ib vs. Ic @ various Vce' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'Ie vs. Vbc @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'Ie_(Ib+Is) vs. Ie @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'Ie_Ib vs. Ie @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'Is vs. Vbc @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Gummel Checks'  Item 'Is vs. Vbe @ various Vce' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item '(dIc_dVce)_Ic  vs. Vce @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item '(dIe_dVec)_Ie vs. Vec @ various Vbc' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'dIb_dVce vs. Vce @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'dIb_dVec vs. Vec @ various Vbc' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'dIc_dVce vs. Vce @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'dIe_dVec vs. Vec @ various Vbc' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'dIs_dVce vs. Vce @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'dIs_dVec vs. Vec @ various Vbc' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'Ib vs. Vce @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'Ib vs. Vec @ various Vbc' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'Ic vs. Vce @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'Ic_(Ib+Is) vs. Vce @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'Ic_Ib vs. Vce @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'Ie vs. Vec @ various Vbc' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'Ie_(Ib+Is) vs. Vec @ various Vbc' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'Ie_Ib vs. Vec @ various Vbc' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'Is vs. Vce @ various Vbe' has no results
+COMPARE ERROR: Group 'DC Output Checks'  Item 'Is vs. Vec @ various Vbc' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. Area @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. Area @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. Area @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. Area @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. Area @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. M @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. M @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. M @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. M @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. M @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. T @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. T @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. T @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic vs. T @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. Area @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. Area @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. Area @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. Area @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. Area @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. M @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. M @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. M @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. M @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. M @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. T @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. T @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. T @ various Vbe' has no results
+COMPARE ERROR: Group 'Model Scalability'  Item 'Ic_Ib vs. T @ various Vbe' has no results
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_bjt' costs 1m43s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_bjt' costs 1m48s
+CASE STATUS:   FAILED

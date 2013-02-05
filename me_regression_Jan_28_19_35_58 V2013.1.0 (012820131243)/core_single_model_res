@@ -1,0 +1,12 @@
+***************************************************************
+***core_single_model_res                                    ***
+***************************************************************
+------------------------------------------------
+----core_single_model_res
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_model_res' costs 0m35s
+------------------------------------------------
+TIME INFO:     Case:'core_single_model_res' costs 0m39s
+CASE STATUS:   PASS

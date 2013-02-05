@@ -1,0 +1,11 @@
+***************************************************************
+***core_single_mos_psp                                      ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_psp
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_psp out of time
+TIME INFO:     Proj:'core_single_mos_psp' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_psp' costs 4m4s
+CASE STATUS:   FAILED
