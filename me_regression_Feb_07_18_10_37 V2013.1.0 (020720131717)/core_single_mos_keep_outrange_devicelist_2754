@@ -1,0 +1,11 @@
+***************************************************************
+***core_single_mos_keep_outrange_devicelist_2754            ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_keep_outrange_devicelist_2754
+------------------------------------------------
+Check INFO: The saved device list match with the golden
+TIME INFO:     Proj:'core_single_mos_keep_outrange_devicelist_2754' costs 0m13s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_keep_outrange_devicelist_2754' costs 0m17s
+CASE STATUS:   PASS

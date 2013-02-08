@@ -1,0 +1,11 @@
+***************************************************************
+***macro_single_bjt                                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_bjt
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_bjt out of time
+TIME INFO:     Proj:'macro_single_bjt' costs 8m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_bjt' costs 8m4s
+CASE STATUS:   FAILED

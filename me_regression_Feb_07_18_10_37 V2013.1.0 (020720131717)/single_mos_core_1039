@@ -1,0 +1,12 @@
+***************************************************************
+***single_mos_core_1039                                     ***
+***************************************************************
+------------------------------------------------
+----single_mos_core_1039
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'single_mos_core_1039' costs 3m3s
+------------------------------------------------
+TIME INFO:     Case:'single_mos_core_1039' costs 3m8s
+CASE STATUS:   PASS

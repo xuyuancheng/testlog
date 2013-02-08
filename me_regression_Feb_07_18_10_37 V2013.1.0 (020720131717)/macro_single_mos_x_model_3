@@ -1,0 +1,33 @@
+***************************************************************
+***macro_single_mos_x_model_3                               ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_x-model-3
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Ioff vs. L @ various W] FAILED
+
+      #temp   	Run rule [Ioff vs. L @ various W] Checked
+
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs' Graph 'Vb=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs' Graph 'Vb=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs' Graph 'Vb=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs (y')' Graph 'Vb=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs (y')' Graph 'Vb=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs (y')' Graph 'Vb=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs' Graph 'Vd=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs' Graph 'Vd=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs' Graph 'Vd=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Rout vs. Vds @ various Vgs' Graph 'Vb=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Rout vs. Vds @ various Vgs' Graph 'Vb=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Ioff vs. L @ various W' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Ioff vs. W @ various L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'SR vs. Vg @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'macro_single_mos_x-model-3' costs 2m14s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_x_model_3' costs 2m18s
+CASE STATUS:   FAILED

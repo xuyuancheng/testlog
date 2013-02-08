@@ -1,0 +1,13 @@
+***************************************************************
+***core_single_mos_flat_rule_2750                           ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_flat_rule_2750
+------------------------------------------------
+Check INFO: The rule check summary file match with the golden!
+Check INFO: The rule check summary file match with the golden!
+Check INFO: The rule check summary file match with the golden!
+TIME INFO:     Proj:'core_single_mos_flat_rule_2750' costs 0m29s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_flat_rule_2750' costs 0m33s
+CASE STATUS:   PASS

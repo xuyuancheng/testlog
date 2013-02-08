@@ -1,0 +1,24 @@
+***************************************************************
+***core_single_bjt_basic_pnp                                ***
+***************************************************************
+------------------------------------------------
+----core_single_bjt_basic_pnp
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Fitting Error [T=25 AREA=1].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vse=0.00V_0_beta_Vbe.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vse=0.00V_0_Ic_Vbe_Ic_Ib_Vbe.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vse=0.00V_0_Ic_Vce.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vse=0.00V_0_Vce_Ic_Vce_Vbe_Ic.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vse=0.00V_0_beta_Vbe.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vse=0.00V_0_Ic_Vbe_Ic_Ib_Vbe.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vse=0.00V_0_Ic_Vce.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vse=0.00V_0_Vce_Ic_Vce_Vbe_Ic.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pnp beta_Vbe Vse=0.00V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pnp Ic_Ib_Vbe Vse=0.00V_0_Ic_Vbe.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pnp Ic_Vce Vse=0.00V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pnp Vce_Vbe_Ic Vse=0.00V_0_Vce_Ic.gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_bjt_basic_pnp' costs 1m34s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bjt_basic_pnp' costs 1m39s
+CASE STATUS:   FAILED

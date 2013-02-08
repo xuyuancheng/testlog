@@ -1,0 +1,11 @@
+***************************************************************
+***core_corner_data_check_3059                              ***
+***************************************************************
+------------------------------------------------
+----core_corner_data_check_3059
+------------------------------------------------
+Check INFO: The saved gtf file match with the golden
+TIME INFO:     Proj:'core_corner_data_check_3059' costs 0m15s
+------------------------------------------------
+TIME INFO:     Case:'core_corner_data_check_3059' costs 0m19s
+CASE STATUS:   PASS

@@ -1,0 +1,45 @@
+***************************************************************
+***macro_single_mos_1576_nodelist_crash                     ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_1576_nodelist_crash
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Rout vs. L @ various W] Checked
+
+      #temp   	Run rule [Rout vs. L @ various W] FAILED
+
+COMPARE ERROR:
+      #golden 	Run rule [Rout vs. W @ various L] FAILED
+
+      #temp   	Run rule [Rout vs. W @ various L] Checked
+
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. T @ various W_L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. T @ various W_L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. W @ various L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. W @ various L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Id vs. Vgb' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Id vs. Vgb' has no results
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Gm_Id vs. Vgs' Graph 'Vd=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Gm_Id vs. Vgs' Graph 'Vd=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Rout vs. L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Rout vs. L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Rout vs. W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Rout vs. W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Ioff vs. Vtlin' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Peak Position of Gm' Graph 'Vd=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. T @ various W_L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. T @ various W_L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. W @ various L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. W @ various L' has no results
+COMPARE ERROR: Group 'Model Scalability' Item 'Ib_max vs. L @ various W' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Vtlin vs. T @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Vtsat vs. T @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'macro_single_mos_1576_nodelist_crash' costs 1m29s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_1576_nodelist_crash' costs 1m34s
+CASE STATUS:   FAILED

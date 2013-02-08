@@ -1,0 +1,1189 @@
+***************************************************************
+***compare_mos_basic                                        ***
+***************************************************************
+------------------------------------------------
+----compare_mos_basic
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'compare_mos_basic' costs 0m18s
+------------------------------------------------
+TIME INFO:     Case:'compare_mos_basic' costs 0m23s
+CASE STATUS:   PASS
+
+***************************************************************
+***compare_para_list_bin_2756                               ***
+***************************************************************
+------------------------------------------------
+----compare_para_list_bin_2756
+------------------------------------------------
+COMPARE INFO: Log file match!
+TIME INFO:     Proj:'compare_para_list_bin_2756' costs 0m15s
+------------------------------------------------
+TIME INFO:     Case:'compare_para_list_bin_2756' costs 0m19s
+CASE STATUS:   PASS
+
+***************************************************************
+***compare_pare_list_np_2756                                ***
+***************************************************************
+------------------------------------------------
+----compare_pare_list_np_2756
+------------------------------------------------
+COMPARE INFO: Log file match!
+TIME INFO:     Proj:'compare_pare_list_np_2756' costs 0m11s
+------------------------------------------------
+TIME INFO:     Case:'compare_pare_list_np_2756' costs 0m15s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_bin_1051                                            ***
+***************************************************************
+------------------------------------------------
+----core_bin_1051
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_bin_1051' costs 1m8s
+------------------------------------------------
+TIME INFO:     Case:'core_bin_1051' costs 1m13s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_bin_1850                                            ***
+***************************************************************
+------------------------------------------------
+----core_bin_1850
+------------------------------------------------
+COMPARE INFO: Log file match!
+TIME INFO:     Proj:'core_bin_1850' costs 0m37s
+------------------------------------------------
+TIME INFO:     Case:'core_bin_1850' costs 0m41s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_bin_rule_check_1389                                 ***
+***************************************************************
+------------------------------------------------
+----core_bin_rule_check_1389
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_bin_rule_check_1389' costs 0m11s
+------------------------------------------------
+TIME INFO:     Case:'core_bin_rule_check_1389' costs 0m16s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_corner_data_check_3059                              ***
+***************************************************************
+------------------------------------------------
+----core_corner_data_check_3059
+------------------------------------------------
+Check INFO: The saved gtf file match with the golden
+TIME INFO:     Proj:'core_corner_data_check_3059' costs 0m15s
+------------------------------------------------
+TIME INFO:     Case:'core_corner_data_check_3059' costs 0m19s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_hsim_hv                                             ***
+***************************************************************
+------------------------------------------------
+----core_hsim_hv
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_hsim_hv' costs 1m8s
+------------------------------------------------
+TIME INFO:     Case:'core_hsim_hv' costs 1m13s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_hsim_hv2                                            ***
+***************************************************************
+------------------------------------------------
+----core_hsim_hv2
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Peak Position of Gm] Checked
+
+      #temp   	Run rule [Peak Position of Gm] FAILED
+
+COMPARE ERROR: Group 'Model Accuracy' Item 'Electrical Parameter Trend' Graph 'Idlin vs. L pmos T=27.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'Electrical Parameter Trend' Graph 'Idsat vs. L pmos T=27.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Fitting Error [W=20 L=0.5 T=25].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Fitting Error [W=20 L=0.55 T=25].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vbs=0.00V_0_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vbs=1.50V_1_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-0.10V_0_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-0.10V_0_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-0.10V_0_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-5.00V_1_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-5.00V_1_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vbs=0.00V_0_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vbs=1.50V_1_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-0.10V_0_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-0.10V_0_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-0.10V_0_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-5.00V_1_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-5.00V_1_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-5.00V_1_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=0.00V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=0.00V_0[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=1.50V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=1.50V_1[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-0.10V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-0.10V_0[Gm].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-5.00V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-5.00V_1[Gm].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=0.00V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=0.00V_0[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=1.50V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=1.50V_1[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-0.10V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-0.10V_0[Gm].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-5.00V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-5.00V_1[Gm].gtf' does not  match with golden
+TIME INFO:     Proj:'core_hsim_hv2' costs 2m50s
+------------------------------------------------
+TIME INFO:     Case:'core_hsim_hv2' costs 2m55s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_bjt_basic_npn                                ***
+***************************************************************
+------------------------------------------------
+----core_single_bjt_basic_npn
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_bjt_basic_npn out of time
+TIME INFO:     Proj:'core_single_bjt_basic_npn' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bjt_basic_npn' costs 4m5s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_bjt_basic_pnp                                ***
+***************************************************************
+------------------------------------------------
+----core_single_bjt_basic_pnp
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Fitting Error [T=25 AREA=1].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vse=0.00V_0_beta_Vbe.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vse=0.00V_0_Ic_Vbe_Ic_Ib_Vbe.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vse=0.00V_0_Ic_Vce.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vse=0.00V_0_Vce_Ic_Vce_Vbe_Ic.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vse=0.00V_0_beta_Vbe.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vse=0.00V_0_Ic_Vbe_Ic_Ib_Vbe.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vse=0.00V_0_Ic_Vce.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vse=0.00V_0_Vce_Ic_Vce_Vbe_Ic.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pnp beta_Vbe Vse=0.00V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pnp Ic_Ib_Vbe Vse=0.00V_0_Ic_Vbe.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pnp Ic_Vce Vse=0.00V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pnp Vce_Vbe_Ic Vse=0.00V_0_Vce_Ic.gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_bjt_basic_pnp' costs 1m24s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bjt_basic_pnp' costs 1m29s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_bsimsoi_basic_bin                            ***
+***************************************************************
+------------------------------------------------
+----core_single_bsimsoi_basic_bin
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Peak Position of Gm] Checked
+
+      #temp   	Run rule [Peak Position of Gm] FAILED
+
+COMPARE ERROR: Group 'Model Accuracy' Item 'Electrical Parameter Trend' Graph 'Idlin vs. L nmos T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'Electrical Parameter Trend' Graph 'Idsat vs. L nmos T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Cjs vs. Vj @ various T and Area' Graph 'As=1e-010(m2).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Cjs vs. Vj @ various T and Area' Graph 'As=5e-010(m2).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Cjs vs. Vj @ various T and Area' Graph 'As=5e-011(m2).gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_bsimsoi_basic_bin' costs 1m18s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bsimsoi_basic_bin' costs 1m23s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_bsim_cmg_basic_n                             ***
+***************************************************************
+------------------------------------------------
+----core_single_bsim_cmg_basic_n
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Model Scalability' Item 'Leff vs. L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Leff vs. Tfin' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_bsim_cmg_basic_n' costs 1m16s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bsim_cmg_basic_n' costs 1m21s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_bsim_cmg_basic_p                             ***
+***************************************************************
+------------------------------------------------
+----core_single_bsim_cmg_basic_p
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Model Scalability' Item 'Leff vs. L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Leff vs. Tfin' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_bsim_cmg_basic_p' costs 1m3s
+------------------------------------------------
+TIME INFO:     Case:'core_single_bsim_cmg_basic_p' costs 1m8s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_model_res                                    ***
+***************************************************************
+------------------------------------------------
+----core_single_model_res
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_model_res' costs 0m16s
+------------------------------------------------
+TIME INFO:     Case:'core_single_model_res' costs 0m20s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_advance                                  ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_advance
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_advance out of time
+TIME INFO:     Proj:'core_single_mos_advance' costs 10m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_advance' costs 10m10s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_basic_n                                  ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_n
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_basic_n' costs 1m37s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_n' costs 1m43s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_basic_np                                 ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_np
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Fitting Error [W=1.2 L=0.7 T=25].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vbs=-1.50V_1_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vbs=0.00V_0_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=0.10V_0_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=0.10V_0_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=0.10V_0_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=5.00V_1_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=5.00V_1_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=5.00V_1_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vbs=-1.50V_1_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vbs=0.00V_0_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=0.10V_0_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=0.10V_0_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=0.10V_0_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=5.00V_1_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=5.00V_1_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=5.00V_1_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Fitting Error [W=1.2 L=2 T=25].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vbs=0.00V_0_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vbs=1.50V_1_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-0.10V_0_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-0.10V_0_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-0.10V_0_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-5.00V_1_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-5.00V_1_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'Max_Err Vds=-5.00V_1_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vbs=0.00V_0_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vbs=1.50V_1_Id_Vds T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-0.10V_0_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-0.10V_0_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-0.10V_0_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-5.00V_1_Id_Vgs #1 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-5.00V_1_Id_Vgs #2 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Fitting Errors' Graph 'RMS_Err Vds=-5.00V_1_Id_Vgs #3 T=25.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vds Vbs=-1.50V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vds Vbs=-1.50V_1[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vds Vbs=0.00V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vds Vbs=0.00V_0[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vgs Vds=0.10V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vgs Vds=0.10V_0[Gm].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vgs Vds=5.00V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'nmos Id_Vgs Vds=5.00V_1[Gm].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=0.00V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=0.00V_0[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=1.50V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vds Vbs=1.50V_1[Gds].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-0.10V_0.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-0.10V_0[Gm].gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-5.00V_1.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Accuracy' Item 'IV_CV Graphs' Graph 'pmos Id_Vgs Vds=-5.00V_1[Gm].gtf' does not  match with golden
+TIME INFO:     Proj:'core_single_mos_basic_np' costs 3m53s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_np' costs 3m59s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_basic_n_ext_s                            ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_n_ext_s
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+TIME INFO:     Proj:'core_single_mos_basic_n_ext_s' costs 2m45s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_n_ext_s' costs 2m49s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_basic_p                                  ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_p
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_basic_p' costs 1m20s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_p' costs 1m25s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_basic_p_ext_h                            ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_p_ext_h
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_basic_p_ext_h' costs 7m28s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_p_ext_h' costs 7m32s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_basic_p_ext_h_w                          ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_p_ext_h_w
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_basic_p_ext_h_w' costs 3m7s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_p_ext_h_w' costs 3m11s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_bin_parameter_list_2756                  ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_bin_parameter_list_2756
+------------------------------------------------
+Check INFO: Bin parameter lvth0 found!
+TIME INFO:     Proj:'core_single_mos_bin_parameter_list_2756' costs 0m13s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_bin_parameter_list_2756' costs 0m17s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_change_logscale_2268                     ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_change_logscale_2268
+------------------------------------------------
+Check ERROR: The key file does not match with the golden
+TIME INFO:     Proj:'core_single_mos_change_logscale_2268' costs 0m25s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_change_logscale_2268' costs 0m29s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_data_check_3059                          ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_data_check_3059
+------------------------------------------------
+Check INFO: The saved gtf file match with the golden
+TIME INFO:     Proj:'core_single_mos_data_check_3059' costs 0m17s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_data_check_3059' costs 0m21s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_flat_rule_2750                           ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_flat_rule_2750
+------------------------------------------------
+Check INFO: The rule check summary file match with the golden!
+Check INFO: The rule check summary file match with the golden!
+Check INFO: The rule check summary file match with the golden!
+TIME INFO:     Proj:'core_single_mos_flat_rule_2750' costs 0m19s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_flat_rule_2750' costs 0m23s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_keep_outrange_devicelist_2754            ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_keep_outrange_devicelist_2754
+------------------------------------------------
+Check INFO: The saved device list match with the golden
+TIME INFO:     Proj:'core_single_mos_keep_outrange_devicelist_2754' costs 0m13s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_keep_outrange_devicelist_2754' costs 0m17s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_model_accuracy_1558_2269                 ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_model_accuracy_1558_2269
+------------------------------------------------
+SCRIPT ERROR: Running project: core_single_mos_model_accuracy_1558_2269 out of time
+TIME INFO:     Proj:'core_single_mos_model_accuracy_1558_2269' costs 6m0s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_model_accuracy_1558_2269' costs 6m6s
+CASE STATUS:   FAILED
+
+***************************************************************
+***core_single_mos_np_2752_vth_cc_1                         ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_np_2752_vth_cc_1
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_np_2752_vth_cc_1' costs 0m40s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_np_2752_vth_cc_1' costs 0m44s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_np_2752_vth_cc_l                         ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_np_2752_vth_cc_l
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_np_2752_vth_cc_l' costs 0m40s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_np_2752_vth_cc_l' costs 0m44s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_np_2752_vth_cc_w                         ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_np_2752_vth_cc_w
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_np_2752_vth_cc_w' costs 0m43s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_np_2752_vth_cc_w' costs 0m48s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_np_2752_vth_cc_wl                        ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_np_2752_vth_cc_wl
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_np_2752_vth_cc_wl' costs 0m40s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_np_2752_vth_cc_wl' costs 0m44s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_n_1899                                   ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_n
+------------------------------------------------
+TIME INFO:     Proj:'core_single_mos_basic_n' costs 1m35s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_n_1899' costs 1m40s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_psp                                      ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_psp
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_psp' costs 1m43s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_psp' costs 1m48s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_p_model_basic_2622                       ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_p_model_basic_2622
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'core_single_mos_p_model_basic_2622' costs 0m14s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_p_model_basic_2622' costs 0m18s
+CASE STATUS:   PASS
+
+***************************************************************
+***core_single_mos_save_load_devlist_2755                   ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_save_load_devlist_2755
+------------------------------------------------
+TIME INFO:     Proj:'core_single_mos_save_load_devlist_2755' costs 0m16s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_save_load_devlist_2755' costs 0m20s
+CASE STATUS:   PASS
+
+***************************************************************
+***corner_basic                                             ***
+***************************************************************
+------------------------------------------------
+----corner_basic
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'corner_basic' costs 4m36s
+------------------------------------------------
+TIME INFO:     Case:'corner_basic' costs 4m40s
+CASE STATUS:   PASS
+
+***************************************************************
+***corner_wafer_map_1666                                    ***
+***************************************************************
+------------------------------------------------
+----corner_wafer_map_1666
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+Corner model KOP output table match!
+TIME INFO:     Proj:'corner_wafer_map_1666' costs 0m35s
+------------------------------------------------
+TIME INFO:     Case:'corner_wafer_map_1666' costs 0m40s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_cmp_dragnet3589                                    ***
+***************************************************************
+------------------------------------------------
+----macro_cmp_dragnet3589
+------------------------------------------------
+COMPARE INFO: Log file match!
+TIME INFO:     Proj:'macro_cmp_dragnet3589' costs 0m4s
+------------------------------------------------
+TIME INFO:     Case:'macro_cmp_dragnet3589' costs 0m8s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_compare_mos_1813                                   ***
+***************************************************************
+------------------------------------------------
+----macro_compare_mos_1813
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_compare_mos_1813' costs 0m18s
+------------------------------------------------
+TIME INFO:     Case:'macro_compare_mos_1813' costs 0m22s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_corner_1740                                        ***
+***************************************************************
+------------------------------------------------
+----macro_corner_1740
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+Corner model KOP output table match!
+TIME INFO:     Proj:'macro_corner_1740' costs 1m44s
+------------------------------------------------
+TIME INFO:     Case:'macro_corner_1740' costs 1m49s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_mos_LOD_2299_2300                                  ***
+***************************************************************
+------------------------------------------------
+----macro_mos_LOD_2299_2300
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_mos_LOD_2299_2300' costs 0m29s
+------------------------------------------------
+TIME INFO:     Case:'macro_mos_LOD_2299_2300' costs 0m33s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_parse_NodelFile_crash_dragnet3575                  ***
+***************************************************************
+------------------------------------------------
+----macro_parse_NodelFile_crash_dragnet3575
+------------------------------------------------
+COMPARE INFO: Log file match!
+TIME INFO:     Proj:'macro_parse_NodelFile_crash_dragnet3575' costs 0m4s
+------------------------------------------------
+TIME INFO:     Case:'macro_parse_NodelFile_crash_dragnet3575' costs 0m8s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_bjt                                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_bjt
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_bjt out of time
+TIME INFO:     Proj:'macro_single_bjt' costs 8m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_bjt' costs 8m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_capacitor_1659                              ***
+***************************************************************
+------------------------------------------------
+----macro_single_capacitor_1659
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_capacitor_1659' costs 2m36s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_capacitor_1659' costs 2m41s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_diode                                       ***
+***************************************************************
+------------------------------------------------
+----macro_single_diode
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_diode' costs 2m41s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_diode' costs 2m46s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_diode_1573                                  ***
+***************************************************************
+------------------------------------------------
+----macro_single_diode_1573
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_diode_1573' costs 2m38s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_diode_1573' costs 2m43s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_diode_934                                   ***
+***************************************************************
+------------------------------------------------
+----macro_single_diode_934
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_diode_934 out of time
+TIME INFO:     Proj:'macro_single_diode_934' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_diode_934' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_model_res                                   ***
+***************************************************************
+------------------------------------------------
+----macro_single_model_res
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_model_res out of time
+TIME INFO:     Proj:'macro_single_model_res' costs 4m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_model_res' costs 4m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_mos_1576_nodelist_crash                     ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_1576_nodelist_crash
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Rout vs. L @ various W] Checked
+
+      #temp   	Run rule [Rout vs. L @ various W] FAILED
+
+COMPARE ERROR:
+      #golden 	Run rule [Rout vs. W @ various L] FAILED
+
+      #temp   	Run rule [Rout vs. W @ various L] Checked
+
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. T @ various W_L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. T @ various W_L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. W @ various L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm vs. W @ various L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Id vs. Vgb' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Id vs. Vgb' has no results
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Gm_Id vs. Vgs' Graph 'Vd=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Gm_Id vs. Vgs' Graph 'Vd=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Rout vs. L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Rout vs. L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Rout vs. W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Gm_Rout vs. W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Ioff vs. Vtlin' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics' Item 'Peak Position of Gm' Graph 'Vd=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. L @ various W' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. T @ various W_L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. T @ various W_L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. W @ various L' has no results
+COMPARE ERROR: Group 'Model OP Characteristics'  Item 'Rout vs. W @ various L' has no results
+COMPARE ERROR: Group 'Model Scalability' Item 'Ib_max vs. L @ various W' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Vtlin vs. T @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Vtsat vs. T @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'macro_single_mos_1576_nodelist_crash' costs 1m29s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_1576_nodelist_crash' costs 1m34s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_mos_1623                                    ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_1623
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_1623' costs 0m39s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_1623' costs 0m43s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_1664                                    ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_1664
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_1664' costs 1m7s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_1664' costs 1m12s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_1730                                    ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_1730
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_1730' costs 1m20s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_1730' costs 1m25s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_1730p                                   ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_1730p
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_1730p' costs 1m57s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_1730p' costs 2m2s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_1739                                    ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_1739
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_1739' costs 1m23s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_1739' costs 1m28s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_basic_n_ext_h                           ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_basic_n_ext_h
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_basic_n_ext_h' costs 7m20s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_basic_n_ext_h' costs 7m24s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_basic_n_ext_h_w                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_basic_n_ext_h_w
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_basic_n_ext_h_w' costs 0m33s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_basic_n_ext_h_w' costs 0m37s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_cap_1624                                ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_cap_1624
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cbd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cdd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgb vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgd vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgg vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vds' Graph 'Vb=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=0(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Advanced Check_ Capacitance' Item 'Cgs vs. Vgs' Graph 'Vd=1.2(V).gtf' does not  match with golden
+TIME INFO:     Proj:'macro_single_mos_cap_1624' costs 0m33s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_cap_1624' costs 0m38s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_mos_n                                       ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_n
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_n' costs 1m22s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_n' costs 1m26s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_n_2752_vth_cc_1                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_n_2752_vth_cc_1
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_n_2752_vth_cc_1' costs 0m31s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_n_2752_vth_cc_1' costs 0m36s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_n_2752_vth_cc_l                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_n_2752_vth_cc_l
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_n_2752_vth_cc_l' costs 0m31s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_n_2752_vth_cc_l' costs 0m36s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_n_2752_vth_cc_w                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_n_2752_vth_cc_w
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_n_2752_vth_cc_w' costs 0m33s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_n_2752_vth_cc_w' costs 0m38s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_n_2752_vth_cc_wl                        ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_n_2752_vth_cc_wl
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_n_2752_vth_cc_wl' costs 0m30s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_n_2752_vth_cc_wl' costs 0m34s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_p                                       ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_p
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_mos_p' costs 1m24s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_p' costs 1m28s
+CASE STATUS:   PASS
+
+***************************************************************
+***macro_single_mos_x_model_3                               ***
+***************************************************************
+------------------------------------------------
+----macro_single_mos_x-model-3
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Ioff vs. L @ various W] FAILED
+
+      #temp   	Run rule [Ioff vs. L @ various W] Checked
+
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs' Graph 'Vb=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs' Graph 'Vb=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs' Graph 'Vb=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs (y')' Graph 'Vb=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs (y')' Graph 'Vb=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gds vs. Vds @ various Vgs (y')' Graph 'Vb=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs' Graph 'Vd=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs' Graph 'Vd=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs' Graph 'Vd=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=-0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Gm vs. Vgs @ various Vbs (y')' Graph 'Vd=-1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Rout vs. Vds @ various Vgs' Graph 'Vb=0.1(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Behavior and Robustness' Item 'Rout vs. Vds @ various Vgs' Graph 'Vb=1.2(V).gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Ioff vs. L @ various W' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'Ioff vs. W @ various L' Graph 'Rule_Checking.gtf' does not  match with golden
+COMPARE ERROR: Group 'Model Scalability' Item 'SR vs. Vg @ various W_L' Graph 'Rule_Checking.gtf' does not  match with golden
+TIME INFO:     Proj:'macro_single_mos_x-model-3' costs 2m14s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_mos_x_model_3' costs 2m18s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_soi_1569                                    ***
+***************************************************************
+------------------------------------------------
+----macro_single_soi_1569
+------------------------------------------------
+COMPARE ERROR:
+      #golden 	Run rule [Gm vs. Vgs @ various Vps] Checked
+
+      #temp   	Run rule [Gm vs. Vgs @ various Vps] 
+
+COMPARE ERROR:
+      #golden 	Run rule [Gm vs. Vgs @ various Vps (y')] Checked
+
+      #temp   	Run rule [Gm vs. Vgs @ various Vps (y')] 
+
+COMPARE ERROR: Group 'Model Behavior and Robustness'  Item 'Gm vs. Vgs @ various Vps' has no results
+COMPARE ERROR: Group 'Model Behavior and Robustness'  Item 'Gm vs. Vgs @ various Vps' has no results
+COMPARE ERROR: Group 'Model Behavior and Robustness'  Item 'Gm vs. Vgs @ various Vps (y')' has no results
+COMPARE ERROR: Group 'Model Behavior and Robustness'  Item 'Gm vs. Vgs @ various Vps (y')' has no results
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'macro_single_soi_1569' costs 0m10s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_soi_1569' costs 0m14s
+CASE STATUS:   FAILED
+
+***************************************************************
+***macro_single_tft                                         ***
+***************************************************************
+------------------------------------------------
+----macro_single_tft
+------------------------------------------------
+SCRIPT ERROR: Running project: macro_single_tft out of time
+TIME INFO:     Proj:'macro_single_tft' costs 8m0s
+------------------------------------------------
+TIME INFO:     Case:'macro_single_tft' costs 8m4s
+CASE STATUS:   FAILED
+
+***************************************************************
+***single_ftp_mode_1702                                     ***
+***************************************************************
+------------------------------------------------
+----single_ftp_mode_1702
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'single_ftp_mode_1702' costs 3m31s
+------------------------------------------------
+TIME INFO:     Case:'single_ftp_mode_1702' costs 3m36s
+CASE STATUS:   PASS
+
+***************************************************************
+***single_mos_core_1039                                     ***
+***************************************************************
+------------------------------------------------
+----single_mos_core_1039
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE INFO: All gtf file match!
+TIME INFO:     Proj:'single_mos_core_1039' costs 3m3s
+------------------------------------------------
+TIME INFO:     Case:'single_mos_core_1039' costs 3m8s
+CASE STATUS:   PASS
+
+***************************************************************
+***single_para_list_2756                                    ***
+***************************************************************
+------------------------------------------------
+----single_para_list_2756
+------------------------------------------------
+COMPARE INFO: Log file match!
+TIME INFO:     Proj:'single_para_list_2756' costs 0m10s
+------------------------------------------------
+TIME INFO:     Case:'single_para_list_2756' costs 0m14s
+CASE STATUS:   PASS
+
+***************************************************************
+***single_para_list_bin_2756                                ***
+***************************************************************
+------------------------------------------------
+----single_para_list_bin_2756
+------------------------------------------------
+COMPARE INFO: Log file match!
+TIME INFO:     Proj:'single_para_list_bin_2756' costs 0m11s
+------------------------------------------------
+TIME INFO:     Case:'single_para_list_bin_2756' costs 0m15s
+CASE STATUS:   PASS
+

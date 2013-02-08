@@ -1,0 +1,11 @@
+***************************************************************
+***macro_parse_NodelFile_crash_dragnet3575                  ***
+***************************************************************
+------------------------------------------------
+----macro_parse_NodelFile_crash_dragnet3575
+------------------------------------------------
+COMPARE INFO: Log file match!
+TIME INFO:     Proj:'macro_parse_NodelFile_crash_dragnet3575' costs 0m4s
+------------------------------------------------
+TIME INFO:     Case:'macro_parse_NodelFile_crash_dragnet3575' costs 0m8s
+CASE STATUS:   PASS

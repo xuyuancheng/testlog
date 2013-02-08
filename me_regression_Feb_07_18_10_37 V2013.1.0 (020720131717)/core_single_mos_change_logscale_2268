@@ -1,0 +1,11 @@
+***************************************************************
+***core_single_mos_change_logscale_2268                     ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_change_logscale_2268
+------------------------------------------------
+Check ERROR: The key file does not match with the golden
+TIME INFO:     Proj:'core_single_mos_change_logscale_2268' costs 0m25s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_change_logscale_2268' costs 0m29s
+CASE STATUS:   FAILED

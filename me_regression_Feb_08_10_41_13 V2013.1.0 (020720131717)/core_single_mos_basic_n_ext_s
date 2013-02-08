@@ -1,0 +1,59 @@
+***************************************************************
+***core_single_mos_basic_n_ext_s                            ***
+***************************************************************
+------------------------------------------------
+----core_single_mos_basic_n_ext_s
+------------------------------------------------
+COMPARE INFO: Log file match!
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model OP Characteristics' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+COMPARE ERROR: Group 'Model Scalability' has not runned.
+TIME INFO:     Proj:'core_single_mos_basic_n_ext_s' costs 2m43s
+------------------------------------------------
+TIME INFO:     Case:'core_single_mos_basic_n_ext_s' costs 2m48s
+CASE STATUS:   FAILED
